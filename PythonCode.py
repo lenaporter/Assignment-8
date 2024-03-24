@@ -1,3 +1,3 @@
-print('Hello World!')
 import random
-print(random.randint(0,13))
+print('Hello World!')
+print(random.randint(0,9))
